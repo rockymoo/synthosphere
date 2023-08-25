@@ -94,7 +94,7 @@ dfflibmap -liberty ../lib/sky____
 ![Screenshot from 2023-08-26 00-48-27](https://github.com/rockymoo/synthosphere/assets/126293037/256959c7-c2ef-4db6-a212-4b3f44afb6d8)
 
 
- ## printing statics of car paking management 
+ ## printing statistics of car paking management 
 
 
 ![IMG-20230825-WA0046](https://github.com/rockymoo/synthosphere/assets/126293037/884e801c-308a-4b4f-8040-e7fb4765f679)
