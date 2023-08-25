@@ -234,8 +234,26 @@ endmodule
 
 # read library
 1. commond 'read_library -lib ../lib/sky________'
-2. to include library file 'sky'
-   library file
+2. to include library file 'sky130_fd_sc_hd_tt_025c_1v80.lib'
+   after including lib file
+# techno map.v file
+
+![IMG-20230825-WA0041](https://github.com/rockymoo/synthosphere/assets/126293037/e0e152db-e8ea-43a7-8900-e7201d862ee0)
+ # printing statics of car paking management 
+
+
+![IMG-20230825-WA0046](https://github.com/rockymoo/synthosphere/assets/126293037/884e801c-308a-4b4f-8040-e7fb4765f679)
+
+1. read_verilog 'file.v'
+2. specifiy the top module
+3. view the top module which wired and synthesised
    
+   # gate level netlist generated connectons
    
+![IMG-20230825-WA0040](https://github.com/rockymoo/synthosphere/assets/126293037/96584281-005c-437a-bb21-e3a99cac09d4)
+
+# after synthesis 
+comparing the RTL with .vcd RTL again 
+
+![IMG-20230825-WA0042](https://github.com/rockymoo/synthosphere/assets/126293037/4c15c009-2000-471c-88a6-764415d8744d)
 
