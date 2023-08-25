@@ -4,7 +4,7 @@
 Installation guide
 https://github.com/YosysHQ/yosys
 
-Prerequiste dependency
+# Prerequiste dependency
 
 $ sudo apt-get install build-essential clang bison flex \
   libreadline-dev gawk tcl-dev libffi-dev git \
