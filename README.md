@@ -48,18 +48,15 @@ module car_parking_management(
     output reg [6:0] hex_1, hex_2,
     output reg [3:0] space_available, space_utilized, count_cars
     );
-
     reg [3:0] overall_space=4'b1000;
     reg [2:0] current_state, next_state;
     reg [1:0] wait_time;
-
     //declaring parameters list
     parameter idle = 3'b000, 
               wait_time_state=3'b001, 
               password_correct=3'b010, 
               password_incorrect=3'b011, 
               stop=3'b100;
-
     //declarimg current state			 
     always@(posedge clk) begin
         if(rst==1) current_state<= idle; 
