@@ -31,5 +31,4 @@ $ sudo apt install yosys
 $ sudo apt upgrade
 
 # progress image 
-"C:\Users\rakes\OneDrive\Pictures\syntho\IMG-20230825-WA0043.jpg"
-
+![IMG-20230825-WA0043](https://github.com/rockymoo/synthosphere/assets/126293037/5fd7d75b-a8f8-4a12-8ec4-3859c2d2c620)
