@@ -40,4 +40,5 @@ mkdir "--------" file name
 4. inside file create .v files and testbench files with .v extension and run
 5. ![Screenshot from 2023-08-25 17-34-21](https://github.com/rockymoo/synthosphere/assets/126293037/8f47d9c5-5db0-418d-ab80-694a23d7a484)
    # Genration of GTKWAVE
+  $ nnecndjcnedncdncdjhnkjcnkdjcdejkdcjdcjnc fdc
    
