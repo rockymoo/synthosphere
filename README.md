@@ -278,3 +278,6 @@ comparing the RTL with .vcd RTL again
 ![Screenshot from 2023-08-25 23-05-35](https://github.com/rockymoo/synthosphere/assets/126293037/7cfeae89-00f2-40a6-9607-6922b2893353)
 
 comparing with test.v redudent lines are avoided in netlistfile
+
+# RTL OF ALL MODULES 
+car_pram.v
