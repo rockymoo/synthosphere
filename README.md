@@ -54,10 +54,10 @@ Parking System can be defined as the use of advanced technologies for the better
 ![fsmforcarpark](https://github.com/rockymoo/synthosphere/assets/126293037/9ab245b2-19e4-4dcd-a043-000f506eb492)
 
    # RTL of all modules 
-   https://github.com/rockymoo/synthosphere/blob/main/car_parm.v         : TOP MODULE 
-   https://github.com/rockymoo/synthosphere/blob/main/car_parm.vcd       : VCD file 
-   https://github.com/rockymoo/synthosphere/blob/main/test.v             : TEST.V file
-   https://github.com/rockymoo/synthosphere/blob/main/netlist_car_parm.v : NETLIST 
+   1. https://github.com/rockymoo/synthosphere/blob/main/car_parm.v         : TOP MODULE 
+   2. https://github.com/rockymoo/synthosphere/blob/main/car_parm.vcd       : VCD file 
+   3. https://github.com/rockymoo/synthosphere/blob/main/test.v             : TEST.V file
+   4. https://github.com/rockymoo/synthosphere/blob/main/netlist_car_parm.v : NETLIST 
    
 
 
