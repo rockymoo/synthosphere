@@ -4,14 +4,14 @@
 Installation guide
 https://github.com/YosysHQ/yosys
 
-# Prerequiste dependency
+## Prerequiste dependency
 
 $ sudo apt-get install build-essential clang bison flex \
   libreadline-dev gawk tcl-dev libffi-dev git \
   graphviz xdot pkg-config python3 libboost-system-dev \
   libboost-python-dev libboost-filesystem-dev zlib1g-dev
 
-# installation Flow
+## installation Flow
 
 $ mkdir yosys-master
 $ cd yosys-master
@@ -30,9 +30,9 @@ if it doesn't work ( version mismatch might occur when combining other open soft
 $ sudo apt install yosys
 $ sudo apt upgrade
 
-# progress image 
+## progress image 
 ![IMG-20230825-WA0043](https://github.com/rockymoo/synthosphere/assets/126293037/5fd7d75b-a8f8-4a12-8ec4-3859c2d2c620)
-# how create file 
+## how create file 
 1. open commond prompt
 mkdir "--------" file name
 2. to get into file use command 'cd'
@@ -57,7 +57,8 @@ Parking System can be defined as the use of advanced technologies for the better
    1. https://github.com/rockymoo/synthosphere/blob/main/car_parm.v         : TOP MODULE 
    2. https://github.com/rockymoo/synthosphere/blob/main/car_parm.vcd       : VCD file 
    3. https://github.com/rockymoo/synthosphere/blob/main/test.v             : TEST.V file
-   4. https://github.com/rockymoo/synthosphere/blob/main/netlist_car_parm.v : NETLIST 
+   4. https://github.com/rockymoo/synthosphere/blob/main/netlist_car_parm.v : NETLIST
+   5. https://github.com/rockymoo/synthosphere/blob/main/tb_car_parm.v      : Test bench 
    
 
 
@@ -87,16 +88,16 @@ Parking System can be defined as the use of advanced technologies for the better
 2. specifiy the top module
 3. view the top module which wired and synthesised
    
-   # gate level netlist generated connectons
+   ## gate level netlist generated connectons
    
 ![IMG-20230825-WA0040](https://github.com/rockymoo/synthosphere/assets/126293037/96584281-005c-437a-bb21-e3a99cac09d4)
 
-# after synthesis 
+## after synthesis 
 comparing the RTL with .vcd RTL again 
 
 ![IMG-20230825-WA0042](https://github.com/rockymoo/synthosphere/assets/126293037/4c15c009-2000-471c-88a6-764415d8744d)
 
-# comparing test.v and netlist.v 
+## comparing test.v and netlist.v 
 
 ![Screenshot from 2023-08-25 23-04-17](https://github.com/rockymoo/synthosphere/assets/126293037/25076c27-24cb-4a6a-8eaf-b8efe27a60eb)
 
