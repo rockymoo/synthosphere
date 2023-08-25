@@ -84,6 +84,16 @@ Parking System can be defined as the use of advanced technologies for the better
 ## techno map.v file
 
 ![IMG-20230825-WA0041](https://github.com/rockymoo/synthosphere/assets/126293037/e0e152db-e8ea-43a7-8900-e7201d862ee0)
+## dfflibmap
+dfflibmap -liberty ../lib/sky____
+
+![Screenshot from 2023-08-26 00-47-40](https://github.com/rockymoo/synthosphere/assets/126293037/1a36e57f-f856-44a4-bc88-8735986d9b92)
+
+## DFF cells map
+
+![Screenshot from 2023-08-26 00-48-27](https://github.com/rockymoo/synthosphere/assets/126293037/256959c7-c2ef-4db6-a212-4b3f44afb6d8)
+
+
  ## printing statics of car paking management 
 
 
