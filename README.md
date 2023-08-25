@@ -39,6 +39,20 @@ mkdir "--------" file name
 3. to get to know list of files use 'ls' command .
 4. inside file create .v files and testbench files with .v extension and run
 5. ![Screenshot from 2023-08-25 17-34-21](https://github.com/rockymoo/synthosphere/assets/126293037/8f47d9c5-5db0-418d-ab80-694a23d7a484)
+
+
+# car parking managemnet system 
+project is designed to implement a car parking system using Verilog. In this project, at the entrance of the parking system, a sensor is used to detect the presence of a vehicle. Once the sensor is triggered, a password is requested to open the gate. If the entered password is correct, the gate opens to let the vehicle in, otherwise, the gate remains locked.
+
+![car_parks](https://github.com/rockymoo/synthosphere/assets/126293037/ae1d59f3-6efd-430a-966e-645818aedb00)
+
+# introduction management 
+	Drivers searching for parking are estimated to be responsible for about 30% of traffic congestion in cities. Historically, cities, businesses, and property developers have tried to match parking supply to growing demand for parking spaces.
+Parking System can be defined as the use of advanced technologies for the better operation, controlling of traffic, and management of parking within an urban area. A number of technologies provide the basis for parking solutions, including vehicle sensors, wireless communications, and data analytics. Parking System is also made useful by recent technology in areas such as mobile appilcation customer services, mobile UPI payments, and in-car GPS navigation systems. At the heart of the parking system concept is the ability to access, collect, analyze, disseminate, and act on information on parking usage. Increasingly, this information is provided in real-time from intelligent devices that enable both parking managers and drivers to optimize the use of parking capacity.
+
+# FSM For Car Parking System
+![fsmforcarpark](https://github.com/rockymoo/synthosphere/assets/126293037/9ab245b2-19e4-4dcd-a043-000f506eb492)
+
    # RTL code of  car parking system
    
 module car_parking_management(
