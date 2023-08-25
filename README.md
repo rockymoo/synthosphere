@@ -226,7 +226,9 @@ endmodule
 1. to genrate gtkwave intially include .vcd file genrate line in testbench file
 2. execute .vcd file by commond 'gtkwave __.vcd
    # RTL SIMULATION
-   ![IMG-20230825-WA0039](https://github.com/rockymoo/synthosphere/assets/126293037/7a6bb606-aad4-4bc8-b7b1-8d6c28c7426a)
+   ![IMG-20230825-WA0039](https://github.com/rockymoo/synthosphere/assets/126293037/caf3b2a1-456c-4973-8719-dd98434bb87d)
+
+  kjnj
 
    
-   jhbcjbedc
+   
