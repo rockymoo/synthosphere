@@ -228,7 +228,14 @@ endmodule
    # RTL SIMULATION
    ![IMG-20230825-WA0039](https://github.com/rockymoo/synthosphere/assets/126293037/caf3b2a1-456c-4973-8719-dd98434bb87d)
 
-  kjnj
+  # open yosys 
+  
+   ![IMG-20230825-WA0043](https://github.com/rockymoo/synthosphere/assets/126293037/0e949f18-cf10-4107-9de5-d81e2d1df858)
 
+# read library
+1. commond 'read_library -lib ../lib/sky________'
+2. to include library file 'sky'
+   library file
    
    
+
