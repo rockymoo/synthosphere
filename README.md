@@ -119,6 +119,9 @@ dfflibmap -liberty ../lib/sky____
 comparing the RTL with .vcd RTL again 
 
 ![IMG-20230825-WA0042](https://github.com/rockymoo/synthosphere/assets/126293037/4c15c009-2000-471c-88a6-764415d8744d)
+## post synthesis block diagram mapped into techfile
+
+![afterflatten ](https://github.com/rockymoo/synthosphere/assets/126293037/a723b2d0-2369-4726-a6f1-846c60dd91c6)
 
 ## comparing test.v and netlist.v 
 
