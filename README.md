@@ -54,10 +54,17 @@ project is designed to implement a car parking system using Verilog. In this pro
 # introduction management 
 	Drivers searching for parking are estimated to be responsible for about 30% of traffic congestion in cities. Historically, cities, businesses, and property developers have tried to match parking supply to growing demand for parking spaces.
 Parking System can be defined as the use of advanced technologies for the better operation, controlling of traffic, and management of parking within an urban area. A number of technologies provide the basis for parking solutions, including vehicle sensors, wireless communications, and data analytics. Parking System is also made useful by recent technology in areas such as mobile appilcation customer services, mobile UPI payments, and in-car GPS navigation systems. At the heart of the parking system concept is the ability to access, collect, analyze, disseminate, and act on information on parking usage. Increasingly, this information is provided in real-time from intelligent devices that enable both parking managers and drivers to optimize the use of parking capacity.
+# motivation to use pparking system:
+1. Reduced traffic – Traffic flow increases as fewer cars are required to drive around in search of an open parking space.
+2. Increased Safety – Parking lot employees and security guards contain real-time lot data that can help prevent parking violations and suspicious activity. License plate recognition cameras can gather pertinent footage. Also, decreased spotsearching traffic on the streets can reduce accidents caused by the distraction of searching for parking.
+3. Decreased Management Costs – More automation and less manual activity saves on labor cost and resource exhaustion.
+
 
 ## FSM For Car Parking System
 ![fsmforcarpark](https://github.com/rockymoo/synthosphere/assets/126293037/9ab245b2-19e4-4dcd-a043-000f506eb492)
 
+          FIG2:- State Diagram for Car parking System
+	  
    # RTL of all modules 
    1. https://github.com/rockymoo/synthosphere/blob/main/car_parm.v         : TOP MODULE 
    2. https://github.com/rockymoo/synthosphere/blob/main/car_parm.vcd       : VCD file 
@@ -72,7 +79,8 @@ Parking System can be defined as the use of advanced technologies for the better
 2. execute .vcd file by commond 'gtkwave __.vcd
    ## RTL SIMULATION
    ![IMG-20230825-WA0039](https://github.com/rockymoo/synthosphere/assets/126293037/caf3b2a1-456c-4973-8719-dd98434bb87d)
-
+   
+  			FIG:- Simulation Results of Car Parking System
   ## open yosys 
   
    ![IMG-20230825-WA0043](https://github.com/rockymoo/synthosphere/assets/126293037/0e949f18-cf10-4107-9de5-d81e2d1df858)
@@ -82,8 +90,8 @@ Parking System can be defined as the use of advanced technologies for the better
 2. to include library file 'sky130_fd_sc_hd_tt_025c_1v80.lib'
    after including lib file
 ## techno map.v file
+![IMG-20230825-WA0032](https://github.com/rockymoo/synthosphere/assets/126293037/ab35efb1-7601-4402-a771-43a5153e5582)
 
-![IMG-20230825-WA0041](https://github.com/rockymoo/synthosphere/assets/126293037/e0e152db-e8ea-43a7-8900-e7201d862ee0)
 ## dfflibmap
 dfflibmap -liberty ../lib/sky____
 
